@@ -8,6 +8,6 @@ R files for the preparation of all figures.
 
 Table of TFs used.
 
-The final larva, adult and integrated datasets can be found in this Google Docs folder: [To me added after acceptance of paper]
+The final larva, adult and integrated datasets can be found in this Google Docs folder: [To be added after acceptance of paper]
 
 All raw and processed transcriptome data for the larval dataset are available at the GEO under accession number GSE167266. All raw and processed transcriptome data for the adult and pupa stages are at the GEO under GSE142787.
