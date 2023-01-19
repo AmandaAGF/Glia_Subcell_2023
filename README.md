@@ -4,6 +4,8 @@ It contains:
 
 R files for the preparation of the larval and adult Drosophila optic lobe glial datasets.
 
+R files for the preparation of all figures.
+
 Table of TFs used.
 
 The final larva, adult and integrated datasets can be found in this Google Docs folder: [To me added after acceptance of paper]
